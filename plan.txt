@@ -1,0 +1,15 @@
+All Tasks
+today
+this week
+
+Projects
+  Project 1
+  Project 2
+  Project 3
+
+To-Do-List
+  Title,
+  Description,
+  Due Date,
+  Priority,
+  Checkbox
